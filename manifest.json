@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "endmin.system-monitor",
+  "name": "System Monitor",
+  "version": "1.0.0",
+  "author": "endmin",
+  "description": "CPU, GPU, memory, temperatures, load, and uptime",
+  "kinds": ["bar-widget"],
+  "entryPoints": {"barWidget": "BarWidget.qml"},
+  "barWidget": {"displayName": "System Monitor", "description": "Hardware use and temperatures", "category": "System", "allowMultiple": false}
+}
