@@ -2,9 +2,9 @@
 
 An Omarchy Quickshell bar widget for CPU and GPU activity and temperatures. Hover over the widget for memory use, fan speeds (when exposed by the kernel or NVIDIA tools), load average, and uptime.
 
-![System Monitor widget screenshot](preview-01.png)
-
 ![System Monitor widget screenshot](preview.png)
+
+![System Monitor widget screenshot](preview-01.png)
 
 ## Features
 
